@@ -1,0 +1,8 @@
+led_display.c:24:6:setTimerMode	16	static
+led_display.c:28:6:timerMode_run	4	static
+led_display.c:34:6:setTimerNormal	16	static
+led_display.c:38:6:timerNormal_run	4	static
+led_display.c:49:6:init_led	24	static
+led_display.c:54:6:clear_all	8	static
+led_display.c:80:6:display_led_normal	32	static
+led_display.c:214:6:display_mode	32	static

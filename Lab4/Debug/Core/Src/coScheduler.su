@@ -1,0 +1,6 @@
+coScheduler.c:15:6:SCH_Update	16	static
+coScheduler.c:45:6:HAL_TIM_PeriodElapsedCallback	16	static
+coScheduler.c:52:15:SCH_Add_Task	32	static
+coScheduler.c:81:15:SCH_Delete_Task	24	static
+coScheduler.c:101:6:SCH_Dispatch_Tasks	16	static
+coScheduler.c:128:6:SCH_Init	16	static

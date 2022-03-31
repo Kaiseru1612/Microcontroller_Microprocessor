@@ -1,0 +1,6 @@
+SCH.c:12:6:SCH_Update	4	static
+SCH.c:65:6:HAL_TIM_PeriodElapsedCallback	16	static
+SCH.c:72:6:SCH_Add_Task	32	static
+SCH.c:106:15:SCH_Delete_Task	24	static
+SCH.c:126:6:SCH_Dispatch_Tasks	16	static
+SCH.c:194:6:SCH_Init	16	static
